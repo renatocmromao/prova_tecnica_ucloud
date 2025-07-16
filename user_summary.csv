@@ -1,0 +1,5 @@
+user_id,total_purchases,total_spent,conversion_rate
+u1,1,99.9,0.5
+u2,1,150.0,0.5
+u3,1,25.5,1.0
+u4,1,99.9,1.0
